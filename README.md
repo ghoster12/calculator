@@ -1,3 +1,3 @@
 # Calculator
 
-Creating a calculator with javscript!
+Creating a calculator with javscript.
